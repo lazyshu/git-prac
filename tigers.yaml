@@ -1,10 +1,6 @@
 team: Tigers
 
-<<<<<<< HEAD
-manager: Kenneth
-=======
 manager: Deborah
->>>>>>> conflict-1
 
 coach: Ruth
 
@@ -12,4 +8,5 @@ members:
 - Linda
 - William
 - David
--George
+- George
+- Tyler
