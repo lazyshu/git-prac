@@ -10,4 +10,5 @@ members:
 - amend 2nd time
 - By ssh
 
-signed: yes
+signed: no
+2nd-signed: yes
